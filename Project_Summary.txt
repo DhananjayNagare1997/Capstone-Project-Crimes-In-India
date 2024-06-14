@@ -1,0 +1,15 @@
+The project was divided into 4 phases: -
+
+Phase 1- Data Collection/preparation part:
+Data collected on population, literacy rates, and area for each state across specified years. Additionally, Then gathered relevant metrics such as GDP
+per capita, unemployment rate, and median income, compiling all data into a single, comprehensive file for analysis.
+Phase 2- State/UT wise analysis:
+Conducted a comprehensive state-wise analysis of crime data, examining correlations between literacy rate and total crimes, types of crimes, year-
+on-year crime rates, and overall crime in relation to area and population. Generated detailed crime reports for each state based on these analyses.
+Phase 3- SQL Operations:
+Performed advanced SQL operations including data insertion, querying, and analysis on crime datasets. Executed queries to identify highest and lowest incidents of crimes like rapes, kidnappings, and murders. Analysed trends across states, districts, and years, and visualized data to highlight key patterns and insights.
+Phase 4- Unsupervised ML (Clustering):
+Executed unsupervised machine learning clustering to categorize districts into Sensitive, Moderate, and Peaceful areas based on crime data.
+Created
+detailed Data Frames and analysed clusters to identify factors influencing crime rates, suggesting measures to reduce crime, and identifying the most
+safe and unsafe districts. Developed a comprehensive report and visualizations to support findings.
